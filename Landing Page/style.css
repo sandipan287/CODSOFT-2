@@ -52,7 +52,7 @@ background-color: #0e1746;
 
 
 
-.lets-go-btn{
+.lets-explore-btn{
     color: floralwhite;
     background: rgb(201, 66, 13);
     text-decoration: none;
@@ -64,7 +64,7 @@ background-color: #0e1746;
     margin-left: -15px; 
     font-family: 'Times New Roman', Times, serif;
 }
-.lets-go-btn:hover{
+.lets-explore-btn:hover{
     background: rgb(54, 1, 1);
 }
 
